@@ -1,0 +1,28 @@
+{
+  "name": "nistyx",
+  "version": "1.0.0",
+  "description": "A Simple Anime Based Discord Bot",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "nodd ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asyxhida/Nistyx.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord-not",
+    "anime"
+  ],
+  "author": "Asyxhida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asyxhida/Nistyx/issues"
+  },
+  "homepage": "https://github.com/asyxhida/Nistyx#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
